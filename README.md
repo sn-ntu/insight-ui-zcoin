@@ -19,7 +19,7 @@ bitcore-node-zcoin install insight-ui-zcoin
 bitcore-node-zcoin start
 ```
 
-Open a web browser to `http://localhost:3001/insight/`
+Open a web browser to `http://localhost:3881/insight/`
 
 ## Development
 
